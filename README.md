@@ -12,7 +12,7 @@ Python程式與資訊安全實戰
 ```
 ## 1.Google Colab平台實戰篇:python開發環境
 ```
-撰寫與執行你的python程式
+在Google Colab平台撰寫與執行你的python程式
 執行github上的python程式
 將你的程式存在你的github上
 打造你的Google colab成為加解密平台:安裝pycrypto==> !pip install pycrypto
@@ -38,11 +38,28 @@ https://github.com/python/cpython/blob/3.7/Lib/base64.py
 
 ## 4.古典密碼實戰
 ```
+頻率分析法:PicoCTF_2017: Substitute
+
+實戰School CTF 2015: affine-cipher-100
+```
+
+### 自主延伸學習
+```
 
 ```
-## 5.現代密碼實戰
+## 5.現代密碼實戰:pycrypto套件
+```
+1.打造你的Google colab成為加解密平台:安裝pycrypto==> !pip install pycrypto
+2.實戰Hash:: MD5與SHA256
+
+3.對稱式密碼之AES實戰
+4.實戰PICO CTF
+
+
 ```
 
+```
+https://github.com/lflare/picoctf_2017_writeup
 ```
 # 後續延伸課程(規劃中)
 ```
