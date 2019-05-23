@@ -69,9 +69,8 @@ https://github.com/python/cpython/blob/3.7/Lib/base64.py
 https://github.com/lflare/picoctf_2017_writeup
 ```
 # 後續延伸課程(規劃中)
+## HappyLinuxDay
 ```
-HappyLinuxDay
-
 本課程使用Kali linux
 
 早上
@@ -84,10 +83,8 @@ steg
 
 wireshark與 network-CTF
 ```
-
+## HappyWebSecurityDay
 ```
-HappyWebSecurityDay
-
 本課程使用
 實戰環境1:Kali linux + Windows XAMPP
 實戰環境2:Kali linux(含漏洞平台)
@@ -104,4 +101,15 @@ Web server與Web Application
 2.網站漏洞實戰:OWASP TOP 10
 
 Burpsuite 與ZAP
+```
+## HappyAISecurityDay
+```
+早上:Basic Data Science
+From Numpy, matplotlib/Seaborn to pandas
+neural network:From Perception to MLP
+
+下午：AI 實戰
+Scikit learn 與 machine Laerning
+keras 與 CNN
+AI 與Security: Case study
 ```
