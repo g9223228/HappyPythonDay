@@ -30,6 +30,7 @@ Python標準函數庫(standard library)實戰:使用Python base64模組實戰Bas
 ```
 [1]DNA編碼與解碼:實戰
 [2]Morse實戰::alexctf-2017: CR1: Ultracoded 50
+[3]實戰easyctf-2017: Decode Me - 100 points
 ```
 ```
 base64模組原始碼分析:
@@ -37,16 +38,19 @@ https://github.com/python/cpython/blob/3.7/Lib/base64.py
 ```
 
 ## 4.古典密碼實戰
+### 上課實戰主題
+```
+實戰Caesar cipher與bruteforce attack
+實戰School CTF 2015: affine-cipher-100
+```
+### 自主延伸學習
 ```
 頻率分析法:PicoCTF_2017: Substitute
 
-實戰School CTF 2015: affine-cipher-100
-```
-
-### 自主延伸學習
-```
 
 ```
+
+
 ## 5.現代密碼實戰:pycrypto套件
 ```
 1.打造你的Google colab成為加解密平台:安裝pycrypto==> !pip install pycrypto
@@ -57,11 +61,47 @@ https://github.com/python/cpython/blob/3.7/Lib/base64.py
 
 
 ```
+### 自主延伸學習
+```
 
+```
 ```
 https://github.com/lflare/picoctf_2017_writeup
 ```
 # 後續延伸課程(規劃中)
 ```
+HappyLinuxDay
 
+本課程使用Kali linux
+
+早上
+1.Linux(30-60)
+2.Linux C漏洞程式：
+開發與分析
+
+下午：
+steg
+
+wireshark與 network-CTF
+```
+
+```
+HappyWebSecurityDay
+
+本課程使用
+實戰環境1:Kali linux + Windows XAMPP
+實戰環境2:Kali linux(含漏洞平台)
+
+早上
+Web server與Web Application
+
+1.From HTML5,CSS3 To Javascript
+2.Jquery Moblile
+3.PHP
+
+下午：
+1.Http 協定分析:使用Curl 與python
+2.網站漏洞實戰:OWASP TOP 10
+
+Burpsuite 與ZAP
 ```
